@@ -4,7 +4,7 @@ class sample{
     System.out.println("Hello");
     System.out.println("program");
     System.out.println("java");
-    system.out.println("devops");
+    System.out.println("devops");
   }
 }
     
